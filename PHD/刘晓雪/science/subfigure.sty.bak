@@ -1,0 +1,9 @@
+\documentclass{article}
+\usepackage{amsmath}
+\begin{document}
+\title{Test}
+\author{Wang Hui}
+\maketitle
+\section{equation}
+$GC_{Cz\rightarrow C3}$
+\end{document}
